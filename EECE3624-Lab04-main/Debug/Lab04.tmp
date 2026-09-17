@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega128A"</DEVICE>
+ <WORKING_DIR>C:\Users\13142\Documents\GitHub\EECE3624-Lab04\EECE3624-Lab04-main\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\13142\Documents\GitHub\EECE3624-Lab04\EECE3624-Lab04-main\Lab04.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m128adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\13142\Documents\GitHub\EECE3624-Lab04\EECE3624-Lab04-main\Debug\Lab04.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab04.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab04.map</FILE>
+  <FILE>Lab04.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\13142\Documents\GitHub\EECE3624-Lab04\EECE3624-Lab04-main\Lab04.asm</FILE><LINE>15</LINE></main>
+  <factN><FILE>C:\Users\13142\Documents\GitHub\EECE3624-Lab04\EECE3624-Lab04-main\Lab04.asm</FILE><LINE>30</LINE></factN>
+  <here><FILE>C:\Users\13142\Documents\GitHub\EECE3624-Lab04\EECE3624-Lab04-main\Lab04.asm</FILE><LINE>27</LINE></here>
+  <recursiveCase><FILE>C:\Users\13142\Documents\GitHub\EECE3624-Lab04\EECE3624-Lab04-main\Lab04.asm</FILE><LINE>51</LINE></recursiveCase>
+ </LABELS>
+</ASSEMBLER_INFO>

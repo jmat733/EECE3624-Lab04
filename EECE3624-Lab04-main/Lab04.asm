@@ -1,10 +1,10 @@
 /**************************************************************************
  *     File: Lab04.asm
- * Lab Name: 
- *   Author: 
- *  Created: 
+ * Lab Name: What's your calling?
+ *   Author: Jake Matthews
+ *  Created: 9/20/2026
  *
- * This program...
+ * This program computes n!
  *************************************************************************/ 
  .def n = R16
 .def result = R17
